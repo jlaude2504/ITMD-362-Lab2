@@ -1,0 +1,12 @@
+/* Normalize Form Styles */
+/* Add normalization styles for forms here */
+
+/* Mobile-first styles */
+@media screen and (max-width: 768px) {
+    /* Add mobile-friendly styles here */
+}
+
+/* Desktop styles */
+@media screen and (min-width: 769px) {
+    /* Add sectioned desktop styles here */
+}
